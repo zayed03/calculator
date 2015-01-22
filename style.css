@@ -1,0 +1,37 @@
+body
+{
+background-color:gray;
+margin-top: 75px;
+}
+table {
+	border: 2px solid #000;
+	
+}
+ .inputButtons {
+    height:100px;
+    width:100px;
+    display: inline-block;
+    font-size: 40px;
+    background-color: rgb(204, 195, 195);
+    border-radius: 15px;
+}
+#inputbox{
+
+	font-size: 40px;
+    width: 300px;
+    height: 55px;
+    text-align: right;
+
+   
+}
+#clear {
+	font-size: 25px;
+    width: 100px;
+    height: 60px;
+    background-color: rgb(204, 195, 195);
+}
+table  tr:nth-child(2) td:first-child button{
+    height:60px;
+    width:410px;
+    border: 2px solid black;
+}
